@@ -25,6 +25,15 @@ console.table([accountId,accountEmail,accountCity, accountPasword])
 
 
 
+let accountState ;
+
+
+console.log(accountState);
+//here it means in wihtout giving any value to vars it will give undefined 
+
+
+
+
 
 
 
